@@ -4,9 +4,9 @@
 </br>
 </br>
 
-![커담로고](images/커담로고.png)
+![커담로고](images/keodamlogo.png)
 
-![커담로고](images/커담로고.png)
+![커담로고](images/keodamlogo.png)
 
 ## 🌱 커담이란?
 커담(Keodam)은 대학생들이 **가볍지만 의미 있는 대화(커피챗)** 를 통해  
