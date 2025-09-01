@@ -1,7 +1,7 @@
 
 # ☕️ 커담 Keodam
 
-</br>
+</br></br>
 
 <P align="center"> 
   대학생들의 작은 고민부터, </br>
@@ -39,4 +39,17 @@
   → 인터넷 검색이 아닌, 생생한 조언을 얻고 싶은 분  
 
 - 🎯 **성장과 자기계발에 관심 있는 분**  
-  → 다양한 대화 속에서 동기부여와 인사이트를 얻고 싶은 분  
+  → 다양한 대화 속에서 동기부여와 인사이트를 얻고 싶은 분
+
+
+</br>
+
+👉 [커담 홈페이지 바로가기](https://keodam.com)
+
+<p align="center">
+  <a href="https://keodam.app" target="_blank">
+    <img src="https://img.shields.io/badge/Go_to-Keodam_Homepage-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Keodam Homepage"/>
+  </a>
+</p>
+</br>
+MIT © Keodam Team
