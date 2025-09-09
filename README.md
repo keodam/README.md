@@ -65,7 +65,7 @@
 ## 🧑🏻‍💻 프로젝트 멤버
 
 <p align="center">
-  <img src="images/keodamlogo.png" alt="멤버소개" width="50%">
+  <img src="images/memberintro.png" alt="멤버소개" width="50%">
 </p>
 </br>
 
