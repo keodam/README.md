@@ -59,6 +59,21 @@
 </br>
 
 ---
+</br>
+</br>
+
+## 🧑🏻‍💻 프로젝트 멤버
+
+<p align="center">
+  <img src="images/keodamlogo.png" alt="멤버소개" width="50%">
+</p>
+</br>
+
+</br>
+</br>
+
+---
+
 
 👉 [커담 홈페이지 바로가기](https://keodam.com)
 
